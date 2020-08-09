@@ -1,0 +1,5 @@
+>40,medium,no,fair,yes
+>40,low,yes,fair,yes
+>40,low,yes,excellent,no
+>40,medium,yes,fair,yes
+>40,medium,no,excellent,no

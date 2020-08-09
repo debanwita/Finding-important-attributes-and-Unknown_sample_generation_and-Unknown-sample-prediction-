@@ -1,0 +1,5 @@
+<=30,high,no,fair,no
+<=30,high,no,excellent,no
+<=30,medium,no,fair,no
+<=30,low,yes,fair,yes
+<=30,medium,yes,excellent,yes

@@ -1,0 +1,4 @@
+31..40,high,no,fair,yes
+31..40,low,yes,excellent,yes
+31..40,medium,no,excellent,yes
+31..40,high,yes,fair,yes
